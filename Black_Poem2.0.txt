@@ -8,4 +8,6 @@ My dog is Black
 My cap is black 
 My Cellphone is black
 
+My shoes are very fullcolor
+
 End Black 
